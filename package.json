@@ -35,8 +35,8 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "alurabooks-ds",
-  "author": "vinicios neves",
+  "name": "storybook-ds", 
+  "author": "itamara andrade",
   "module": "dist/alurabooks-ds.esm.js",
   "size-limit": [
     {
