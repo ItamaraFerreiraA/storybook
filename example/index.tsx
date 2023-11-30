@@ -9,8 +9,8 @@ const App = () => {
       <AbBotao /> 
       <AbCard>ihuuuul</AbCard>   
       <AbTag />
-    </div>  
-  );
+    </div>   
+  ); 
 }; 
 
 ReactDOM.render(<App />, document.getElementById('root'));
