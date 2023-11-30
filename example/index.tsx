@@ -7,7 +7,7 @@ const App = () => {
   return (
     <div>
       <AbBotao />
-      <AbCard />  
+      <AbCard></AbCard>   
     </div> 
   );
 };
