@@ -42,7 +42,7 @@ export interface AbGrupoOpcao {
 export interface AbGrupoOpcoesProps {
     opcoes: AbGrupoOpcao[]
     valorPadrao?: AbGrupoOpcao | null
-    onChange?: (opcao: AbGrupoOpcao) => void
+    onChange?: (opcao: AbGrupoOpcao) => void 
 }
 
 export const AbGrupoOpcoes = ({ opcoes, onChange , valorPadrao} : AbGrupoOpcoesProps) => {
