@@ -3,7 +3,7 @@ import * as React from 'react';
 import * as ReactDOM from 'react-dom';
 import { AbBotao, AbCard, AbTag } from '../.';
 
-const App = () => {
+const App = () => { 
   return (
     <div>
       <AbBotao /> 
