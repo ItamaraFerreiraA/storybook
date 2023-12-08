@@ -23,7 +23,7 @@ const BotaoEstilizado = styled.button<AbBotaoProps>`
         : css`
             &:hover { 
                 background: #FFFFFF; 
-                border: 2px solid #B87900;
+                border: 2px solid #B87900; 
                 color: #B87900; 
             }` 
     };

@@ -19,4 +19,4 @@ export const AbCard = ({ children }: CardProps) => {
             {children}
         </CardStyled>
     )
-}
+} 
