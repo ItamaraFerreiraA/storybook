@@ -52,7 +52,7 @@ export const AbGrupoOpcoes = ({ opcoes, onChange , valorPadrao} : AbGrupoOpcoesP
         if (onChange) {
             onChange(opcao)
         }
-    }
+    } 
 
     return (<>
         {opcoes.map(opcao => 
