@@ -1,5 +1,5 @@
 {
-  "version": "0.3.1",
+  "version": "0.3.4",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -22,7 +22,7 @@
     "build-storybook": "build-storybook",
     "release": "auto shipit --base-branch=main"
   },
-  "peerDependencies": {
+  "peerDependencies": { 
     "react": ">=16"
   },
   "husky": {
